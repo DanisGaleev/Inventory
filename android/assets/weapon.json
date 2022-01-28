@@ -1,0 +1,12 @@
+{
+  "weapons": [
+    {
+      "name": "akm",
+      "damage": 100
+    },
+    {
+      "name": "aks",
+      "damage": 200
+    }
+  ]
+}
